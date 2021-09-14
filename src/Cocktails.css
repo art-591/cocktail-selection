@@ -1,0 +1,19 @@
+.cocktail-name-box {
+  background: black;
+  height: 40px;
+  opacity: 0.65;
+  bottom: 50px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.cocktail-name {
+  font-size: 15px;
+  color: white;
+}
+
+.cocktail-img {
+  border-radius: 5px;
+}
